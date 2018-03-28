@@ -1,0 +1,21 @@
+ <root>
+ 
+	<story>
+
+		<cat_id>4</cat_id>
+		<sub_cat_id>401</sub_cat_id>
+		<sub_cat_status>true</sub_cat_status>
+		<sub_cat_name>මුඛ මාර්ගයෙන් ලබාගන්නා ඖෂධ(Oral Hypoglycaemic agents)</sub_cat_name>
+
+ 	</story>
+ 
+	<story>
+
+		<cat_id>4</cat_id>
+		<sub_cat_id>402</sub_cat_id>
+		<sub_cat_status>true</sub_cat_status>
+		<sub_cat_name>ඉන්සියුලින් (Insulin)</sub_cat_name>
+
+ 	</story>
+
+ </root>

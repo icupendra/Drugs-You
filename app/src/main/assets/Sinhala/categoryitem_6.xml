@@ -1,0 +1,66 @@
+ <root>
+	 <story>
+		 <cat_id>6</cat_id>
+		 <sub_cat_id>601</sub_cat_id>
+		<story_id>601001</story_id>
+		<story_title>වෝෆරින් ගන්නා ඔබටයි</story_title>
+ 		<story_des>story61.html</story_des>
+ 	</story>
+ 
+	<story>
+		<cat_id>6</cat_id>
+		<sub_cat_id>601</sub_cat_id>
+		<story_id>601002</story_id>
+		<story_title>වෝෆරින් මාත්‍රාවක් මඟ හරුනහොත්</story_title>
+ 		<story_des>story62.html</story_des>
+ 	</story>
+
+	 <story>
+		 <cat_id>6</cat_id>
+		 <sub_cat_id>601</sub_cat_id>
+		 <story_id>601003</story_id>
+		 <story_title>වෝෆරින් හා ආහාර</story_title>
+		 <story_des>story63.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>6</cat_id>
+		 <sub_cat_id>601</sub_cat_id>
+		 <story_id>601004</story_id>
+		 <story_title>වෝෆරින් හා වෙනත් ඖෂධ</story_title>
+		 <story_des>story64.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>6</cat_id>
+		 <sub_cat_id>601</sub_cat_id>
+		 <story_id>601005</story_id>
+		 <story_title>වෝෆරින් හා ගර්භණීභාවය</story_title>
+		 <story_des>story65.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>6</cat_id>
+		 <sub_cat_id>601</sub_cat_id>
+		 <story_id>601006</story_id>
+		 <story_title>වෝෆරින් වල  අතුරු ආබාධ</story_title>
+		 <story_des>story66.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>6</cat_id>
+		 <sub_cat_id>601</sub_cat_id>
+		 <story_id>601007</story_id>
+		 <story_title>ඔබගේ ප්‍රතිකාර අධීක්‍ෂණය කරන අයුරු</story_title>
+		 <story_des>story67.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>6</cat_id>
+		 <sub_cat_id>601</sub_cat_id>
+		 <story_id>601008</story_id>
+		 <story_title>වෝෆරින් ගබඩා කරන අයුරු</story_title>
+		 <story_des>story68.html</story_des>
+	 </story>
+ 	 
+	</root>

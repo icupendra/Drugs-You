@@ -1,0 +1,38 @@
+ <root>
+	 
+ 	<story>
+		<cat_id>2</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>201001</story_id>
+		<story_title>ප්‍රතිජීවක ඖෂධ යනු </story_title>
+ 		<story_des>story201001.html</story_des>
+
+ 	</story>
+
+	 <story>
+		 <cat_id>2</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		 <story_id>201002</story_id>
+		 <story_title>ප්‍රතිජීවක ඖෂධ ගන්නා ඔබටයි</story_title>
+		 <story_des>story201002.html</story_des>
+	 </story>
+
+ 	<story>
+		<cat_id>2</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>201003</story_id>
+		<story_title>ප්‍රතිජීවක ඖෂධ වලට ඇතිවන ප්‍රතිරෝධය වලක්වා ගැනීමට ඔබට කළ හැකි දේ. </story_title>
+ 		<story_des>story201003.html</story_des>
+
+ 	</story>
+
+	 <story>
+		 <cat_id>2</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		 <story_id>201004</story_id>
+		 <story_title>ප්‍රතිජීවක ඖෂධ හා ආහාර </story_title>
+		 <story_des>story201004.html</story_des>
+	 </story>
+
+ 	 
+	</root>

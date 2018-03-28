@@ -1,0 +1,67 @@
+ <root>
+	 <story>
+		 <cat_id>7</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		<story_id>71</story_id>
+		<story_title>කක්‍ෂය රෝගයට ප්‍රතිකාර සඳහා උපදෙස් </story_title>
+ 		<story_des>story71.html</story_des>
+ 	</story>
+ 
+
+ 	 <story>
+		 <cat_id>7</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		<story_id>72</story_id>
+		<story_title>රෝගී ඔබ සැලකිලිමත් විය යුතු අයුරු </story_title>
+ 		<story_des>story72.html</story_des>
+ 	</story>
+ 
+ 	 <story>
+		 <cat_id>7</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		<story_id>73</story_id>
+		<story_title>ඖෂධ භාවිතයේදී</story_title>
+ 		<story_des>story73.html</story_des>
+ 	</story>
+ 
+ 	 <story>
+		 <cat_id>7</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		<story_id>74</story_id>
+		<story_title>ඖෂධ මාත්‍රාවක් මඟ හරුනහොත් </story_title>
+ 		<story_des>story74.html</story_des>
+ 	</story>
+ 
+ 	 <story>
+		 <cat_id>7</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		<story_id>75</story_id>
+		<story_title>ඖෂධ හා ආහාර </story_title>
+ 		<story_des>story75.html</story_des>
+ 	</story>
+ 
+ 	 <story>
+		 <cat_id>7</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		<story_id>76</story_id>
+		<story_title>ක්‍ෂය රෝගයට ප්‍රතිකාර සඳහා ලබා ගන්නා ඖෂධ හා වෙනත් ඖෂධ</story_title>
+ 		<story_des>story76.html</story_des>
+ 	</story>
+ 
+ 	 <story>
+		 <cat_id>7</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		<story_id>77</story_id>
+		<story_title>ඖෂධ හා ගර්භණී භාවය</story_title>
+ 		<story_des>story77.html</story_des>
+ 	</story>
+ 
+  	 <story>
+		 <cat_id>7</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		<story_id>78</story_id>
+		<story_title>මෙම ඖෂධ වල  අතුරු ආබාධ </story_title>
+ 		<story_des>story78.html</story_des>
+ 	</story>
+
+	</root>

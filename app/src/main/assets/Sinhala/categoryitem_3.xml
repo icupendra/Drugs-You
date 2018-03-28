@@ -1,0 +1,43 @@
+ <root>
+  	<story>
+
+		<cat_id>3</cat_id>
+		<sub_cat_id>301</sub_cat_id>
+		<story_id>301001</story_id>
+		<story_title>භාවිතා කල හැකි අවස්ථා  </story_title>
+ 		<story_des>story31.html</story_des>
+
+ 	</story>
+
+  	<story>
+
+		<cat_id>3</cat_id>
+		<sub_cat_id>301</sub_cat_id>
+		<story_id>301002</story_id>
+		<story_title>පැරසිටමෝල්  ලබා ගැනීමේදී සැලකිලිමත් වන්න</story_title>
+ 		<story_des>story32.html</story_des>
+
+ 	</story> 
+	
+	  	<story>
+
+			<cat_id>3</cat_id>
+			<sub_cat_id>301</sub_cat_id>
+			<story_id>301003</story_id>
+			<story_title>ඔබේ දරුවාට පැරසිටමෝල් ලබාදීමේදී </story_title>
+			<story_des>story33.html</story_des>
+
+ 	</story> 
+	
+	  	<story>
+
+			<cat_id>3</cat_id>
+			<sub_cat_id>301</sub_cat_id>
+			<story_id>301004</story_id>
+			<story_title>යම් හෙයකින් පැරසිටමෝල් අධික මාත්‍රාවක් ශරීර ගත වුවහොත්....</story_title>
+			<story_des>story34.html</story_des>
+
+		
+ 	</story> 
+	
+	</root>

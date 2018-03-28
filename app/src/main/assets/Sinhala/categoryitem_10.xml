@@ -1,0 +1,19 @@
+ <root>
+	 <story>
+		 <cat_id>10</cat_id>
+		 <sub_cat_id>0</sub_cat_id>
+		 <story_id>101</story_id>
+		<story_title>වියළි කුඩු ආඝ්‍රාණක ඖෂධ - Dry Powder Inhalers (DPI)</story_title>
+ 		<story_des>story101.html</story_des>
+ 	</story>
+ 
+	<story>
+		<cat_id>10</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>102</story_id>
+		<story_title>මාත්‍රාව මිනුම්ගත කළ ආඝ්‍රාණක ඖෂධ - Metered Dose Inhalers (MDI)</story_title>
+ 		<story_des>story102.html</story_des>
+ 	</story>
+ 
+ 	 
+	</root>

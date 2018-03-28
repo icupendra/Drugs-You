@@ -1,0 +1,42 @@
+<root>
+	<story>
+		<cat_id>1</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>101001</story_id>
+		<story_title>மருந்து என்றால் என்ன?</story_title>
+ 		<story_des>story11.html</story_des>
+ 	</story>
+ 	<story>
+		<cat_id>1</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>101002</story_id>
+		<story_title>மருந்துகள் எடுத்து போது</story_title>
+ 		<story_des>story12.html</story_des>
+ 	</story>
+ 	<story>
+		<cat_id>1</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>101003</story_id>
+		<story_title>கர்ப்ப காலமும் மற்றும் மருந்து</story_title>
+ 		<story_des>story13.html</story_des>
+ 	</story>
+
+	<story>
+		<cat_id>1</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>101004</story_id>
+		<story_title>மருந்துகள் மற்றும் உங்கள்</story_title>
+		<story_des>story14.html</story_des>
+</story>
+
+	<story>
+		<cat_id>1</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>101005</story_id>
+		<story_title>மருந்துகள் எவ்வாறு சேமிக்க வேண்டும்</story_title>
+		<story_des>story15.html</story_des>
+	</story>
+
+
+   
+</root>

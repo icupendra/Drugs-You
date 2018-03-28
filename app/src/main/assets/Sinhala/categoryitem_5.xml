@@ -1,0 +1,31 @@
+ <root>
+
+
+	 <story>
+
+		 <cat_id>5</cat_id>
+		 <sub_cat_id>501</sub_cat_id>
+		 <story_id>501001</story_id>
+		 <story_title>ජී ටී එන් (GTN)ගන්නා ඔබටයි</story_title>
+		 <story_des>story51.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>5</cat_id>
+		 <sub_cat_id>501</sub_cat_id>
+		 <story_id>501002</story_id>
+		 <story_title>ජී ටී එන් (GTN) ගබඩා කරන කරන අයුරු</story_title>
+		 <story_des>story52.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>5</cat_id>
+		 <sub_cat_id>501</sub_cat_id>
+		 <story_id>501003</story_id>
+		 <story_title>ජී ටී එන් (GTN) වල අතුරු ආබාධ </story_title>
+		 <story_des>story53.html</story_des>
+	 </story>
+
+
+
+ </root>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drugs &amp; You</string>
+    <string name="splash_header">Drugs\n &amp; \nYou</string>
+    <string name="about">About</string>
+    <string name="fav_no">No Favorite Found</string>
+    <string name="search">  SearchView</string>
+    <string name="about_app">About Drugs &amp; You</string>
+
+</resources>

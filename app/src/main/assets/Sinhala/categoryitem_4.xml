@@ -1,0 +1,138 @@
+ <root>
+
+	 <story>
+
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>401</sub_cat_id>
+		 <story_id>401001</story_id>
+		 <story_title>මුඛ මාර්ගයෙන් බහුලව භාවිතයට ගන්නා ඖෂධ.</story_title>
+		 <story_des>story401001.html</story_des>
+
+	 </story>
+
+ 	<story>
+
+		<cat_id>4</cat_id>
+		<sub_cat_id>401</sub_cat_id>
+		<story_id>401002</story_id>
+		<story_title>මුඛ මාර්ගයෙන් ප්‍රතිදියවැඩියා ඖෂධ ගන්නා ඔබටයි….</story_title>
+ 		<story_des>story401002.html</story_des>
+
+ 	</story>
+
+	 <story>
+
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>401</sub_cat_id>
+		 <story_id>401003</story_id>
+		 <story_title>ප්‍රතිදියවැඩියා ඖෂධ මාත්‍රාවක් මඟ හරුනහොත්</story_title>
+		 <story_des>story401003.html</story_des>
+
+	 </story>
+
+	 <story>
+
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>401</sub_cat_id>
+		 <story_id>401004</story_id>
+		 <story_title>ප්‍රතිදියවැඩියා ඖෂධ හා ආහාර</story_title>
+		 <story_des>story401004.html</story_des>
+
+	 </story>
+
+	 <story>
+
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>401</sub_cat_id>
+		 <story_id>401005</story_id>
+		 <story_title>ප්‍රතිදියවැඩියා ඖෂධ වල  අතුරු ආබාධ</story_title>
+		 <story_des>story401005.html</story_des>
+
+	 </story>
+
+	 <story>
+
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>401</sub_cat_id>
+		 <story_id>401006</story_id>
+		 <story_title>ඔබගේ ප්‍රතිකාර අධීක්‍ෂණය කරන අයුරු</story_title>
+		 <story_des>story401006.html</story_des>
+
+	 </story>
+
+	 <story>
+
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>401</sub_cat_id>
+		 <story_id>401007</story_id>
+		 <story_title>ප්‍රතිදියවැඩියා ඖෂධ ගබඩා කරන අයුරු</story_title>
+		 <story_des>story401007.html</story_des>
+
+	 </story>
+
+
+	 <story>
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>402</sub_cat_id>
+		 <story_id>402001</story_id>
+		 <story_title>இன்சுலின் பாவிக்கும் உங்களுக்காக..</story_title>
+		 <story_des>story402001.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>402</sub_cat_id>
+		 <story_id>402002</story_id>
+		 <story_title>இன்சுலின் போத்தலை வீட்டிற்கு எடுத்துச் செல்லும் முறை </story_title>
+		 <story_des>story402002.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>402</sub_cat_id>
+		 <story_id>402003</story_id>
+		 <story_title>இன்சுலின் பாதுகாப்பாக வைக்கும் முறை</story_title>
+		 <story_des>story402003.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>402</sub_cat_id>
+		 <story_id>402004</story_id>
+		 <story_title>இன்சுலின் மற்றும் உணவு </story_title>
+		 <story_des>story402004.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>402</sub_cat_id>
+		 <story_id>402005</story_id>
+		 <story_title>இன்சுலினை போடும் இடங்கள்   </story_title>
+		 <story_des>story402005.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>402</sub_cat_id>
+		 <story_id>402006</story_id>
+		 <story_title>இன்சுலினை போடும் முறை </story_title>
+		 <story_des>story402006.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>402</sub_cat_id>
+		 <story_id>402007</story_id>
+		 <story_title>உங்களுடைய மருந்தெடுக்கும் முறையை மதிப்பிடு  செய்தல்  </story_title>
+		 <story_des>story402007.html</story_des>
+	 </story>
+
+	 <story>
+		 <cat_id>4</cat_id>
+		 <sub_cat_id>402</sub_cat_id>
+		 <story_id>402008</story_id>
+		 <story_title>இன்சுலினால் ஏற்படும் பாதிப்புகள் </story_title>
+		 <story_des>story402008.html</story_des>
+	 </story>
+
+ </root>

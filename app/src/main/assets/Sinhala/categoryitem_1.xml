@@ -1,0 +1,45 @@
+<root>
+	<story>
+		<cat_id>1</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>101001</story_id>
+		<story_title>ඖෂධයක් යනු .</story_title>
+ 		<story_des>story101001.html</story_des>
+ 	</story>
+ 	<story>
+
+		<cat_id>1</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>101002</story_id>
+		<story_title>ඖෂධ ගන්නා විට.</story_title>
+ 		<story_des>story101002.html</story_des>
+
+ 	</story>
+ 	<story>
+		<cat_id>1</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>101003</story_id>
+		<story_title>ගර්භණී භාවය හා ඖෂධ භාවිතය.</story_title>
+ 		<story_des>story101003.html</story_des>
+ 	</story>
+
+	<story>
+
+		<cat_id>1</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>101004</story_id>
+		<story_title>ඖෂධ හා ඔබේ දරුවා.</story_title>
+		<story_des>story101004.html</story_des>
+</story>
+
+	<story>
+		<cat_id>1</cat_id>
+		<sub_cat_id>0</sub_cat_id>
+		<story_id>101005</story_id>
+		<story_title>ඖෂධ ගබඩා කල යුතු ආකාරය.</story_title>
+		<story_des>story101005.html</story_des>
+	</story>
+
+
+   
+</root>

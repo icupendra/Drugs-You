@@ -1,0 +1,61 @@
+<root>
+	<category>
+		<cat_id>1</cat_id>
+		<cat_name>மருந்து பாவிக்கும் முறை பற்றிய அறிவுரைகள்</cat_name>
+		<sub_cat_status>false</sub_cat_status>
+  	</category>
+	 
+	<category>
+		<cat_id>2</cat_id>
+		<cat_name>நுண்ணுயிர்க் கொல்லி மருந்துகள் (Antibiotics)</cat_name>
+		<sub_cat_status>false</sub_cat_status>
+ 	</category>
+	<category>
+		<cat_id>3</cat_id>
+		<cat_name>வலி நிவாரணி மருந்துகள் ( Pain Killers)</cat_name>
+		<sub_cat_status>true</sub_cat_status>
+ 	</category>
+	<category>
+		<cat_id>4</cat_id>
+		<cat_name>நீரிழிவு நோயைக் குணப்படுத்து வதற்கான மருந்துகள் (Diabetes)</cat_name>
+		<sub_cat_status>true</sub_cat_status>
+ 	</category>
+	
+	<category>
+		<cat_id>5</cat_id>
+		<cat_name>நெஞ்சு வலிக்கு பாவிக்கும் மருந்துகள்  ( Angina )</cat_name>
+		<sub_cat_status>true</sub_cat_status>
+ 	</category>
+
+	<category>
+		<cat_id>6</cat_id>
+		<cat_name>குருதி உறையும் நோய்க்கான மருந்துகள் (Anti-coagulant)</cat_name>
+		<sub_cat_status>true</sub_cat_status>
+ 	</category>
+
+
+	<category>
+		<cat_id>7</cat_id>
+		<cat_name>காச நோய் குணப்படுத்துவதற்கான  மருந்துகள் (Tuberculosis)</cat_name>
+		<sub_cat_status>false</sub_cat_status>
+	</category>
+
+	<category>
+		<cat_id>7</cat_id>
+		<cat_name>காது நோய் குணப்படுத்தும் துளி  மருந்துகள் பற்றிய அறிவுரைகள்(Ear Drop )</cat_name>
+		<sub_cat_status>false</sub_cat_status>
+	</category>
+
+	<category>
+		<cat_id>7</cat_id>
+		<cat_name>மூக்கு சம்பந்தமான நோய் குணப்படுத்தும் துளி  மருந்துகள் பற்றிய அறிவுரைகள் (Nasal Drop )</cat_name>
+		<sub_cat_status>false</sub_cat_status>
+	</category>
+
+	<category>
+		<cat_id>7</cat_id>
+		<cat_name>ஆஸ்துமா (முட்டு) நோய்க்கான உறிந்சும் மருந்துகள் பாவிக்கும் முறை பற்றிய அறிவுரைகள் (Inhalers)</cat_name>
+		<sub_cat_status>false</sub_cat_status>
+	</category>
+	
+</root>

@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:id="@+id/headersection"
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <Button
+            android:id="@+id/btn_backicondetails"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10sp"
+            android:background="@drawable/leftarrow"
+            android:layout_marginStart="10dp"/>
+
+        <Button
+            android:id="@+id/btn_share"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="10sp"
+            android:background="@drawable/help"
+            android:layout_marginEnd="15dp"
+            android:layout_toStartOf="@+id/btn_favadd"/>
+
+        <Button
+            android:id="@+id/btn_favadd"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"  
+            android:layout_alignParentTop="true"
+            android:layout_margin="10sp"
+            android:background="@drawable/favorite" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/headersection" >
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/story_viewepager"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+            </android.support.v4.view.ViewPager>
+
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
